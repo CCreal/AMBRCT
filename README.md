@@ -1,10 +1,9 @@
-# Drone Tracking Gym - Enhanced Environment
-
-A high-fidelity drone tracking simulation environment based on Blender rendering, featuring advanced camera control and multiple tracking scenarios. This repository extends the original [cranfield-drone-tracking-gym](https://github.com/mazqtpopx/cranfield-drone-tracking-gym) with enhanced capabilities for research and development in drone vision-based tracking.
+# AMBRCT
 
 ## 🚁 Overview
-
-This environment provides a realistic simulation platform for drone tracking algorithms, leveraging Blender's physics engine and rendering capabilities. It supports multiple tracking scenarios with configurable parameters for different research needs.
+A high-fidelity drone tracking simulation environment based on Blender rendering, featuring advanced camera control and multiple tracking scenarios. This repository extends the original [cranfield-drone-tracking-gym](https://github.com/mazqtpopx/cranfield-drone-tracking-gym).
+This enhanced Drone Tracking Gym is modified to introduce dynamic illumination variations as the primary domain shift, serving as a dedicated testbed for evaluating tracking algorithm robustness and generalization performance under changing lighting conditions in domain generalization research.
+And this repo provides the proposed method AM-BR-CT for color transfer in RL for UAV tracking.
 
 ## 📋 Requirements
 

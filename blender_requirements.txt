@@ -1,0 +1,22 @@
+autopep8==1.6.0
+# Editable install with no version control (blendtorch-btb==0.4.0)
+-e e:\lcc\project_space\pytorch_blender\pytorch-blender-develop\pkg_blender
+certifi==2021.10.8
+charset-normalizer==2.0.10
+cloudpickle==3.1.2
+Cython==0.29.26
+gym==0.26.2
+gym-notices==0.1.0
+idna==3.3
+minexr==1.0.2
+numpy==1.26.4
+opencv-python==4.13.0.92
+pycodestyle==2.8.0
+PyOpenGL==3.1.10
+pyzmq==27.1.0
+requests==2.27.1
+simple-pid==2.0.1
+supershape==1.1.1
+toml==0.10.2
+urllib3==1.26.8
+zstandard==0.16.0
